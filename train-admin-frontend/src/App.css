@@ -1,14 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap");
 
 :root {
-  --primary-color: #181b3a;
+  --primary-color: #242c8b;
   --secondary-color: #2884ff;
   --body-bg: #0b0c28;
   --traind-01-bg:  #725cff;
   --traind-02-bg:  #2884ff;
   --traind-03-bg: #725cff;
   --traind-04-bg: #2884ff;
-  --heading-color: #fff;
+  --heading-color: #e0c7c7;
   --small-text-color: #808191;
   --recommend-train01-bg: #e1dfa4;
   --recommend-train02-bg: #e3ecf1;

@@ -1,7 +1,7 @@
 .custom-dropdown-toggle {
   background-color: transparent;
   color: #000;
-  font-size: 16px;
+  font-size: 14px;
   padding: 10px 20px;
 }
 
@@ -15,7 +15,7 @@
   font-size: 14px;
   padding: 10px 20px;
 }
-
+/* find */
 .find__trains-left {
   /* background: linear-gradient(rgb(249, 168, 38, 0.9), rgb(249, 168, 38, 0.9)), */
   background: linear-gradient(rgb(204, 229, 255, 0.9), rgb(204, 229, 255, 0.9)),
