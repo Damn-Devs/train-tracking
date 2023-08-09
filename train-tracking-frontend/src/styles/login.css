@@ -1,0 +1,24 @@
+.login__section{
+  background-color: #fff;
+  height: 100%;
+  padding: 3%;
+  border-radius: 5%;
+}
+
+.login__hero__form {
+  position: absolute;
+  bottom: -150px;
+  z-index: 11;
+  width: 100%;
+}
+
+.login__find__trains-left {
+  /* background: linear-gradient(rgb(249, 168, 38, 0.9), rgb(249, 168, 38, 0.9)), */
+  background: linear-gradient(rgb(204, 229, 255, 0.9), rgb(204, 229, 255, 0.9)),
+    /* url("../assets/all-images/toyota-offer-2.png"); */
+  url("../assets/all-images/slider-img/slider-1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 65px 35px;
+}
